@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "role": "Developer"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 25,
+      "role": "Designer"
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "age": 28,
+      "role": "Product Manager"
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "age": 35,
+      "role": "QA Engineer"
+    }
+  ]
+  
