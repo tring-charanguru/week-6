@@ -1,0 +1,15 @@
+{
+  "name": "week-6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@apollo/client": "^3.13.1",
+    "create-react-app": "^5.1.0"
+  }
+}
